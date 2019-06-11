@@ -1,0 +1,1 @@
+ALTER TABLE person DROP COLUMN person_id;
